@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Abdullah3780<br>- 👀 I’m interested in software development.<br>- 🌱 I’m currently learning Data Structure & Algorithms.<br>- 💞️ I’m looking to collaborate on open source projects.<br>- 📫 How to reach me ... abbimalik1122@gmail.com
+- 👋 Hi, I’m @Abdullah3780<br>- 👀 I’m interested in software development.<br>- 🌱 I'm currently learning Flutter<br>- 🌱 I’m currently learning Data Structure & Algorithms.<br>- 💞️ I’m looking to collaborate on open source projects.<br>- 📫 How to reach me ... abbimalik1122@gmail.com
 
 
 ## 🌐 Socials:
